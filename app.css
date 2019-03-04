@@ -1,0 +1,67 @@
+html {
+}
+body {
+  background-color:#000000;
+  background:url("https://i.imgur.com/QfUxbzr.jpg") center center scroll no-repeat;
+  background-size:cover;
+}
+#middle{
+  position:fixed;
+  top:43%;
+  left:39%;
+  font-size:80px;
+  font-weight:bold;
+  font-family:sans-serif;
+  color:#FFFFFF;
+}
+#upperleft{
+  position:fixed;
+  top:3%;
+  left:3%;
+  font-size:20px;
+  font-weight:bold;
+  font-family:sans-serif;
+  color:#FFFFFF;
+}
+#lowerleft1{  
+  position:fixed;
+  bottom:20px;
+  left:3%;
+  font-size:28px;
+  font-weight:bold;
+  font-family:sans-serif;
+  color:#FFFFFF;
+}
+#lowerleft2{
+  position:fixed;
+  bottom:20px;
+  left:6%;
+  font-size:18px;
+  font-weight:bold;
+  font-family:sans-serif;
+  color:#808080;
+}
+.upperright{ 
+  text-align:center;
+  background-color:#adadad;
+  position:absolute;
+  top:3%;
+  right:3%;
+  font-size:12px;
+  font-weight:bold;
+  font-family:sans-serif;
+  color:#FFFFFF;
+  padding:7px 15px;
+  border:none;
+  border-radius:15px;
+}
+#lowerright{  
+  position:fixed;
+  bottom:3%;
+  right:3%;
+  font-size:15px;
+  font-weight:bold;
+  font-family:sans-serif;
+  color:#FFFFFF;
+}
+  
